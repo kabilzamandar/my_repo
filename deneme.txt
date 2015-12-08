@@ -1,2 +1,4 @@
 this is a deneme file
-deneme before statsh
+deneme before stash
+after the stash
+>>>>>>> alt_branch
